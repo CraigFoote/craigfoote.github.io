@@ -1,5 +1,6 @@
 layout: page
 title: "flatpak-maven-plugin"
+url: "https://craigfoote.github.io/flatpak-maven-plugin/" # the base hostname & protocol for your site
 permalink: /
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
