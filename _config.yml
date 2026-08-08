@@ -1,7 +1,9 @@
-layout: page
-title: "flatpak-maven-plugin"
-url: "https://craigfoote.github.io/flatpak-maven-plugin/" # the base hostname & protocol for your site
-permalink: /
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Site settings
+title: Great New Blog Title
+author:
+  name: Craig Foote
+  email: CraigFoote@gmail.com
+description: "Careful. I don't know wwhat I'm doing."
+
+# Build settings
+remote_theme: jekyll/minima
