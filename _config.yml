@@ -3,7 +3,7 @@ title: Wut?
 author:
   name: Craig Foote
   email: CraigFoote@gmail.com
-description: "Careful. I don't know wwhat I'm doing."
+description: "Careful. I don't know what I'm doing."
 
 # Build settings
 remote_theme: pages-themes/midnight@v0.2.0
